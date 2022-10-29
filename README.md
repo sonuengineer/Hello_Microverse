@@ -2,7 +2,7 @@
 
 # Project Name
 
-> Description the project.
+> In this project we are making hello microverse project and learn the github flow as well.
 
 
 ## Built With
